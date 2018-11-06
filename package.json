@@ -11,5 +11,15 @@
     "JS"
   ],
   "author": "Huna",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "morgan": "^1.9.1",
+    "mysql2": "^1.6.3",
+    "pug": "^2.0.3",
+    "sequelize": "^4.41.0"
+  }
 }
