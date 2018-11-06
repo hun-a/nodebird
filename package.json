@@ -1,0 +1,15 @@
+{
+  "name": "nodebird",
+  "version": "0.0.1",
+  "description": "Just like Twitter!",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "keywords": [
+    "NodeJS",
+    "JS"
+  ],
+  "author": "Huna",
+  "license": "MIT"
+}
